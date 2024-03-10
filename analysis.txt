@@ -1,0 +1,8 @@
+Course: StudentID,Course1,Course2,Course3,Course4, Score: 6.90375e-310, Grade: F
+Course: 1,75,80,85,90, Score: 6.90375e-310, Grade: F
+Course: 2,65,70,75,80, Score: 6.90375e-310, Grade: F
+Course: 3,85,90,95,100, Score: 6.90375e-310, Grade: F
+Course: 4,55,60,65,70, Score: 6.90375e-310, Grade: F
+Course: 5,95,100,85,90, Score: 6.90375e-310, Grade: F
+Class average score: 6.90375e-310
+Class grade: F
